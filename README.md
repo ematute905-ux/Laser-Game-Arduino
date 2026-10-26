@@ -1,3 +1,4 @@
+
 # Arduino Laser Game with Bluetooth & Target Cooldown Logic
 
 I built this interactive laser shooting game to test target hit detection using light sensors and custom match timing. The project uses LDR sensors for hit registration, an RGB LED to display current system states, an I2C 16x2 LCD display, a buzzer for audio feedback, and Bluetooth to sync scores and remaining time with an Android app built in MIT App Inventor.
@@ -56,9 +57,11 @@ if (analogRead(pinLDR2) > umbralLDR && millis() - cooldownLDR2 > COOLDOWN_MS) {
 
 ![Laser game target setup](Media/IMG-20260410-WA0008.jpg)
 
+<img width="377" height="470" alt="Captura de pantalla 2026-10-25 191418" src="https://github.com/user-attachments/assets/cf28c3ea-813e-43c9-9ae2-eac40730879d" />
 
 
 https://github.com/user-attachments/assets/2ef07936-8056-4c26-ab6a-fe918fc0240a
+
 
 
 
