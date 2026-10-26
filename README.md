@@ -56,4 +56,8 @@ if (analogRead(pinLDR2) > umbralLDR && millis() - cooldownLDR2 > COOLDOWN_MS) {
 
 ![Laser game target setup](Media/IMG-20260410-WA0008.jpg)
 
-<video src="vid-20260410-wa0011_WAZcZs5U.mp4" controls="controls" width="100%"></video>
+[▶ Watch project demonstration video](vid-20260410-wa0011_WAZcZs5U.mp4)
+
+
+
+
