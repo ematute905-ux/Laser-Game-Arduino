@@ -8,7 +8,7 @@ I built this interactive laser shooting game to test target hit detection using 
 - Emitter: Laser Diode Module
 - Indicators: RGB LED & Passive Buzzer
 - Display: 16x2 LCD Display with I2C Module (Address 0x27)
-- Connectivity: HC-05 / HC-06 Bluetooth Module (SoftwareSerial)
+- Connectivity: HC-05 Bluetooth Module (SoftwareSerial)
 - Input: Physical Pushbutton Trigger
 
 ## Pinout
